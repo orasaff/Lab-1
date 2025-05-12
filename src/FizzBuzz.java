@@ -1,7 +1,7 @@
 /**
  * Solve the FizzBuzz challenge.
  */
-class FizzBuzz {
+class FizzBuzz {  // this is a new comment confirming you've made your first pull
 
     public static void main(String[] args) {    // 1. method main must be defined
 
