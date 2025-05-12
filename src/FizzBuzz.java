@@ -12,7 +12,7 @@ class FizzBuzz {
         }
     }
 
-    private static int playFizzBuzz(int i) {
+    public static int playFizzBuzz(int i) {
         boolean divisibleBy3 = i % 3 == 0; // 2. uses ; to end statements
         boolean divisibleBy5 = i % 5 == 0;
 
